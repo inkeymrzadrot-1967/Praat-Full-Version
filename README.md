@@ -238,4 +238,4 @@ This repository serves as the official landing page for Praat. The software is d
 **Get the most recent version of Praat today!**
 
 ---
-**Last updated:** 2026-10-10 15:43:16 UTC
+**Last updated:** 2026-10-10 19:46:41 UTC
